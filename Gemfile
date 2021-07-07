@@ -6,7 +6,7 @@ group :development, :test do
   gem 'gem-release'
   gem 'pg'
   gem 'quiet_assets'
-  gem 'letter_opener'
+  gem 'letter_opener', '>= 1.4.1'
   gem 'brakeman'
   gem 'spina-template'
   gem 'bcrypt'
